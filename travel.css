@@ -1,0 +1,36 @@
+
+body
+{
+    background-color: hsla(64, 59%, 71%, 0.712);
+}
+.himage
+{
+    background-image: url("head.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 300px;
+    background-size: cover;
+}
+.header
+{
+    padding: 20px;
+    text-align: center;
+    border: none;
+    color: white;
+}
+.saintm
+{
+    background-color: rgba(167, 159, 150, 0.26);
+    text-align: justify;
+    border: 2px solid black;
+    width: auto;
+    height: 319px;
+    padding: 40px;
+    margin: 20px;
+
+}
+img
+{
+    float: left;
+}
