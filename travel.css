@@ -1,36 +1,49 @@
 
 body
 {
-    background-color: hsla(64, 59%, 71%, 0.712);
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
-.himage
-{
-    background-image: url("head.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    height: 300px;
-    background-size: cover;
-}
+
 .header
 {
+    color: black;
     padding: 20px;
     text-align: center;
     border: none;
-    color: white;
+    padding: 2px;
+    
 }
 .saintm
 {
-    background-color: rgba(167, 159, 150, 0.26);
-    text-align: justify;
-    border: 2px solid black;
-    width: auto;
-    height: 319px;
-    padding: 40px;
-    margin: 20px;
-
+    padding-bottom: 15px;
+    width: 50%;
+    padding-left: 2%;
+    border: 0px gray;
+    box-shadow: 5px 5px 10px;
+    margin-right: 20px;
 }
+.parent
+{
+    display: flex;
+}
+
+.all-btn
+{
+    background-color: rgb(202, 153, 153);
+    border-radius: 5px;
+    border: none;
+    padding: 5PX 10PX;
+    
+}
+.saint-photo
+{
+    text-decoration: none;
+}
+
 img
 {
     float: left;
 }
+
+

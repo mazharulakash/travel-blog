@@ -1,0 +1,27 @@
+.first-section
+{
+    text-align: center;
+    color: rgb(83, 141, 228);
+}
+
+.s-photo img
+{
+    width: 100%;
+    
+    
+}
+.first-column
+{
+    
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.s-photo
+{
+    margin: 10px;
+    border: 0px solid gray;
+    box-shadow: 3px 3px 10px gray;
+ 
+}
